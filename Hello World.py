@@ -1,2 +1,7 @@
-print "Hello World"
-//halla how are ypu
+# Real Work Starts Here
+
+def  main(msg):
+    print(msg)
+
+
+main("HELLO PEOPLE")
