@@ -9,6 +9,6 @@ def  main(msg):
 main("HELLO PEOPLE")
 
 # create a simple change for
-# creating a merge conflict
+# creating a merge conflict xxxxxxxxxxxx
 #This change is made to test
 #this is a simple line
