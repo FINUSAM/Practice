@@ -7,3 +7,6 @@ def  main(msg):
 
 
 main("HELLO PEOPLE")
+
+#create a simple change for
+#creating a merge conflict
